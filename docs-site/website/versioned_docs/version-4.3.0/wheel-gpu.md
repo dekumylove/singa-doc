@@ -12,7 +12,6 @@ original_id: wheel-gpu
 - [CUDA10.2, cuDNN 7.6.5, Python 3.10](https://singa-wheel.s3.ap-southeast-1.amazonaws.com/singa-4.3.0%2Bcuda10.2-cp310-cp310-manylinux_2_28_x86_64.whl)
 - [CUDA10.2, cuDNN 7.6.5, Python 3.11](https://singa-wheel.s3.ap-southeast-1.amazonaws.com/singa-4.3.0%2Bcuda10.2-cp311-cp311-manylinux_2_28_x86_64.whl)
 
-
 ## 4.2.0
 
 - [CUDA10.2, cuDNN 7.6.5, Python 3.9](https://singa-wheel.s3.ap-southeast-1.amazonaws.com/singa-4.2.0%2Bcuda10.2-cp39-cp39-manylinux_2_28_x86_64.whl)

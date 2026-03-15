@@ -16,7 +16,7 @@ pip install singa -f http://singa.apache.org/docs/next/wheel-cpu.html --trusted-
 ```
 
 您可以通过`singa==<version>`安装特定版本的 SINGA，其中`<version>`字段应被替换，
-例如 `5.0.0`。可用的 SINGA 版本在链接中列出。
+例如 `5.1.0`。可用的 SINGA 版本在链接中列出。
 
 要安装最新的开发版本，请将链接替换为
 http://singa.apache.org/docs/next/wheel-cpu-dev.html
